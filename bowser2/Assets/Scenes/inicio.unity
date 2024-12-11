@@ -204,7 +204,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2006947283}
-        m_MethodName: jugar
+        m_MethodName: Jugar
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1041,3 +1041,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac89b5d950309c0438a7d58e446d6dfe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sonidoHover: {fileID: 8300000, guid: f15df54ccfd6d1d40b986f15b2b95c4b, type: 3}
+  sonidoClick: {fileID: 8300000, guid: 9f5320a76ffebc641a0f03dcefaeba31, type: 3}
